@@ -2,7 +2,7 @@ package mapset._3_map;
 
 import java.util.*;
 
-public class Main {
+public class Main {  // 매출액 종류
     public static void main(String[] args) {
         Main T = new Main();
         Scanner sc = new Scanner(System.in);
